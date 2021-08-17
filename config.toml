@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://progressoes-harmonicas.netlify.app/"
+languageCode = "pt-BR"
 title = "Estudo de Progressões Harmonicas"
 theme = "blank"
 author = "p1sh"
