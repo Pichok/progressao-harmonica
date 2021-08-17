@@ -1,0 +1,16 @@
+{{ range shuffle ( . ) }}
+
+<details>
+    <summary>
+      <!-- {{ .audio }}: {{ .progressao }} -->
+      <audio controls>
+       <source src="audios/{{ .audio }}" type="audio/ogg">
+         Your browser does not support the audio element.
+       </audio>
+       resposta
+     </summary>
+    <span>{{ .progressao }}</span>
+</details>
+
+{{ end }}
+<hr>

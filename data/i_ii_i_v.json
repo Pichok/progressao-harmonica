@@ -1,0 +1,109 @@
+{
+	"audios": [
+		[{
+			"audio": "c-levada-a-1-2.mp3",
+			"progressao": "I-II"
+		}, {
+			"audio": "c-levada-a-1-5.mp3",
+			"progressao": "I-V"
+		}],
+		[{
+			"audio": "d-levada-a-1-5.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "d-levada-a-1-2.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "c-levada-b-1-5.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "c-levada-b-1-2.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "d-levada-e-1-2.mp3",
+			"progressao": "I-II"
+		}, {
+			"audio": "d-levada-e-1-5.mp3",
+			"progressao": "I-V"
+		}],
+		[{
+			"audio": "aula_6_15b.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12b.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_15c.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12c.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_15d.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12d.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_12e.mp3",
+			"progressao": "I-II"
+		}, {
+			"audio": "aula_6_15e.mp3",
+			"progressao": "I-V"
+		}],
+		[{
+			"audio": "d-levada-e-1-2.mp3",
+			"progressao": "I-II"
+		}, {
+			"audio": "d-levada-e-1-5.mp3",
+			"progressao": "I-V"
+		}],
+		[{
+			"audio": "c-levada-a-1-5.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "c-levada-a-1-2.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_15e.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12e.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_12a.mp3",
+			"progressao": "I-II"
+		}, {
+			"audio": "aula_6_15a.mp3",
+			"progressao": "I-V"
+		}],
+		[{
+			"audio": "aula_6_15d.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12d.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_15b.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12b.mp3",
+			"progressao": "I-II"
+		}],
+		[{
+			"audio": "aula_6_15c.mp3",
+			"progressao": "I-V"
+		}, {
+			"audio": "aula_6_12c.mp3",
+			"progressao": "I-II"
+		}]
+	]
+}
